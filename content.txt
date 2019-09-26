@@ -1,4 +1,4 @@
-{logo}
+{logo}/Users/jakesimpson/Documents/GitHub/masthead-semantics/content.txt
 The Solar System
 
 [Stars]
